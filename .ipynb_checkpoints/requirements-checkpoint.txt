@@ -3,4 +3,3 @@ luigi
 jupyterlab
 sqlalchemy
 requests
-psycopg2-binary
